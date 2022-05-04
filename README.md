@@ -9,9 +9,9 @@ Min RAM to run this mod: (4-)8Gb (!!don't report lag issues if you have less or 
 
 1. Start with a clean 1.11 or 1.12 KSP version. 
 2. Download [Kopernicus](https://github.com/kopernicus/kopernicus/releases). Make sure your KSP version matches.
-3. Download [GU_Core](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.2.5). You always need GU_Core as the basic structure. You'll have to add Kerbal Star Systems on top.
+3. Download [GU_Core](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases). You always need GU_Core as the basic structure. You'll have to add Kerbal Star Systems on top.
 4. Drop the 'GU'-folder in your GameData-folder.
-5. Download [Kerbal Star Systems](https://github.com/StarCrusher96/Kerbal-Star-Systems-GU-Edition-/releases/tag/0.1) And drop the KSSGU folder in GameData.
+5. Download [Kerbal Star Systems](https://github.com/StarCrusher96/Kerbal-Star-Systems-GU-Edition-/releases) And drop the KSSGU folder in GameData.
 
 # How to install Galaxies Unbound: Visuals
 
